@@ -1,0 +1,23 @@
+[33mcommit 7c116a08177bcf4c9550cc8da06a5e52e40ba90e[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Jose Salvatierra <jslvtr@gmail.com>
+Date:   Sat Sep 30 17:18:45 2017 +0100
+
+    Added badge to readme.
+
+[33mcommit b6c7ec9d911af7a02894c5d6426f77a8edb465e6[m
+Author: Jose Salvatierra <jslvtr@gmail.com>
+Date:   Sat Sep 30 17:09:13 2017 +0100
+
+    Fixed tests by including store id in every test.
+
+[33mcommit a80eca1b3ee9ba84c4ec9cf19942f360382fc913[m
+Author: Jose Salvatierra <jslvtr@gmail.com>
+Date:   Sat Sep 30 17:04:10 2017 +0100
+
+    Added Travis file.
+
+[33mcommit 35ae80a5e0e2429c3ed0b8b74ca510557a65db4e[m
+Author: Jose Salvatierra <jslvtr@gmail.com>
+Date:   Sat Sep 30 16:42:39 2017 +0100
+
+    Added app and tests.
